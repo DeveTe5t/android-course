@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+
+    <!-- BMI App -->
+    <string name="btn_web_view_app">WebView App</string>
+    <string name="btn_greet_app">Greet App</string>
+    <string name="btn_bmi_app">BMI App</string>
+    <string name="btn_todo_app">TODO App</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="initialHeight">100 cm</string>
+    <string name="weight">Weight</string>
+    <string name="fabSubtractWeight">Subtract weight</string>
+    <string name="fabPlusWeight">Plus weight</string>
+    <string name="age">Age</string>
+    <string name="fabSubtractAge">Subtract age</string>
+    <string name="fabPlusAge">Plus age</string>
+    <string name="calculate">Calculate</string>
+    <string name="heightValue">%1$s cm</string>
+    <string name="yourResult">Your result</string>
+    <string name="recalculate">Re calculate</string>
+    <string name="error">Error</string>
+
+    <string name="title_under_weight">Under weight</string>
+    <string name="description_under_weight">You are below the optimal range for your weight and height.</string>
+    <string name="title_normal_weight">Normal</string>
+    <string name="description_normal_weight">You are in the optimal range for your weight and height.</string>
+    <string name="title_over_weight">Over weight</string>
+    <string name="description_over_weight">You are above the optimal range for your weight and height.</string>
+    <string name="title_obesity_weight">Obesity</string>
+    <string name="description_obesity_weight">You are WAY above the optimal range for your weight and height.</string>
+
+    <!-- TODOApp -->
+    <string name="todo_app_title">Welcome</string>
+    <string name="todo_app_categories">Categories</string>
+    <string name="todo_app_task">Task</string>
+    <string name="todo_app_dialog_add_task">Add task</string>
+</resources>
